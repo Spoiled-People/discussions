@@ -8,4 +8,4 @@ De l'**aide est attendue sur toutes les compétences** – pas uniquemet techniq
 
 Utilisez les tags pour repérer les points où vous pouvez contribuer (et pour catégoriser vos sujets !)
 
-Pour en savoir plus sur Spoiled People : (about)[https://github.com/Spoiled-People/about]
+Pour en savoir plus sur Spoiled People : [about](https://github.com/Spoiled-People/about)
