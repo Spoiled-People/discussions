@@ -7,3 +7,5 @@ Utilisez les [_issues_](https://github.com/Spoiled-People/discussions/issues) (m
 De l'**aide est attendue sur toutes les compétences** – pas uniquemet techniques : UX, législatif, graphisme, etc.
 
 Utilisez les tags pour repérer les points où vous pouvez contribuer (et pour catégoriser vos sujets !)
+
+Pour en savoir plus sur Spoiled People : (about)[https://github.com/Spoiled-People/about]
